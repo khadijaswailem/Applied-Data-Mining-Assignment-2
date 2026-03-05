@@ -1,0 +1,113 @@
+**Scientific Analysis of Kepler-22 b**
+
+**1. Basic Characteristics**
+
+Kepler-22 b is an exoplanet orbiting the G-type main-sequence star Kepler-22. The planet's discovery was announced in 2011 
+via transit method. The available data for Kepler-22 b includes its orbital period (289.864067 days), radius (2.34 Earth radii), and equilibrium temperature (257.0 K). However, the mass of the planet is currently unknown (pl_masse = nan).        
+
+**2. Orbital Properties**
+
+The orbital period of Kepler-22 b is 289.864067 days, indicating a relatively long orbital period compared to other exoplanets. This suggests that the planet may be located at a significant distance from its host star, potentially in the habitable zone. The radius of the planet is 2.34 Earth radii, which is larger than that of Earth, indicating a possible gas giant or super-Earth composition.
+
+**3. Physical Composition Implications**
+
+The large radius of Kepler-22 b suggests that it may be a gas giant or a super-Earth with a substantial atmosphere. The equilibrium temperature of 257.0 K is consistent with a planet in the habitable zone of its host star, but the exact composition and atmospheric properties of the planet are unknown. Further analysis of the planet's mass, atmospheric properties, and internal structure is necessary to determine its physical composition.
+
+**4. Habitability Considerations**
+
+The equilibrium temperature of Kepler-22 b suggests that it may be a potentially habitable world. However, the lack of data on the planet's mass and atmospheric properties makes it difficult to determine its habitability with certainty. The planet's radius and orbital period suggest that it may be a gas giant or super-Earth, which could have a significant impact on its habitability.
+
+**5. Scientific Significance**
+
+Kepler-22 b is one of the first exoplanets discovered by the Kepler space telescope to be located in the habitable zone of 
+its host star. Its discovery has significant implications for the search for life beyond Earth and the understanding of planetary formation and evolution. Further study of Kepler-22 b and other exoplanets in the habitable zone is necessary to determine their potential for supporting life and to better understand the conditions necessary for life to arise.
+
+**Conclusion**
+
+Kepler-22 b is a potentially habitable exoplanet with a large radius and a relatively long orbital period. Further analysis of the planet's mass, atmospheric properties, and internal structure is necessary to determine its physical composition and habitability. The discovery of Kepler-22 b highlights the importance of continued research into exoplanet formation and evolution and the search for life beyond Earth.
+Planet 'Nonexistent Planet' not found in dataset.
+**Comparison of Exoplanets Kepler-22 b and Kepler-442 b**
+
+**1. Size and Mass Comparison**
+
+The size and mass of the exoplanets Kepler-22 b and Kepler-442 b are compared below:
+
+- Kepler-22 b:
+  - Radius (Earth radii): 2.34, 2.1, 2.38, nan, nan, 2.17, 2.1, 2.04, 2.17, 2.25, 2.17
+  - Mass (Earth masses): nan, nan, 36.0, nan, nan, nan, 9.1, nan, nan, nan, nan
+- Kepler-442 b:
+  - Radius (Earth radii): 1.395, nan, 1.56, nan, nan, 1.56, 1.3, nan, 1.59, 1.56
+  - Mass (Earth masses): nan, nan, nan, nan, nan, nan, nan, nan, nan, nan
+
+The radius of Kepler-22 b ranges from 2.04 to 2.38 Earth radii, while the radius of Kepler-442 b ranges from 1.3 to 1.59 Earth radii. The mass of Kepler-22 b ranges from 9.1 to 36.0 Earth masses, while the mass of Kepler-442 b is not provided.   
+
+**2. Orbital Characteristics**
+
+The orbital characteristics of the exoplanets Kepler-22 b and Kepler-442 b are compared below:
+
+- Kepler-22 b:
+  - Orbital Period (days): 289.864067, 289.8622, 289.8623, 289.864067, 289.86387644, 289.864456, 289.863876, 289.864456, 289.864456, nan, 289.864456
+- Kepler-442 b:
+  - Orbital Period (days): nan, nan, 112.306839, 112.29897559, 112.303136, 112.306839, 112.303136, 112.306839, 112.3053, 112.306839, 112.306839
+
+The orbital period of Kepler-22 b ranges from 289.8622 to 289.864456 days, while the orbital period of Kepler-442 b ranges 
+from 112.29897559 to 112.306839 days.
+
+**3. Temperature Differences**
+
+The equilibrium temperature of the exoplanets Kepler-22 b and Kepler-442 b are compared below:
+
+- Kepler-22 b:
+  - Equilibrium Temperature (K): 257.0, 250.0, 262.0, nan, nan, 267.0, 279.0, nan, 267.0, nan, 267.0
+- Kepler-442 b:
+  - Equilibrium Temperature (K): nan, nan, 260.0, nan, nan, 260.0, 241.0, nan, nan, nan, 260.0
+
+The equilibrium temperature of Kepler-22 b ranges from 250.0 to 279.0 K, while the equilibrium temperature of Kepler-442 b 
+ranges from 241.0 to 260.0 K.
+
+**4. Potential Composition Differences**
+
+The potential composition of the exoplanets Kepler-22 b and Kepler-442 b can be inferred from their size and mass. However, the mass of Kepler-442 b is not provided, making it difficult to determine its composition.
+
+**5. Habitability Comparison**
+
+The habitability of the exoplanets Kepler-22 b and Kepler-442 b can be compared based on their size, mass, and equilibrium 
+temperature. However, the mass of Kepler-442 b is not provided, making it difficult to determine its habitability.
+
+**6. Key Scientific Insights**
+
+Based on the provided data, the following key scientific insights can be drawn:
+
+- Kepler-22 b has a larger radius and mass than Kepler-442 b.
+- Kepler-22 b has a longer orbital period than Kepler-442 b.
+- The equilibrium temperature of Kepler-22 b ranges from 250.0 to 279.0 K, while the equilibrium temperature of Kepler-442 
+b ranges from 241.0 to 260.0 K.
+- The potential composition of Kepler-22 b and Kepler-442 b can be inferred from their size and mass, but the mass of Kepler-442 b is not provided.
+- The habitability of Kepler-22 b and Kepler-442 b can be compared based on their size, mass, and equilibrium temperature, 
+but the mass of Kepler-442 b is not provided.
+
+**Conclusion**
+
+The comparison of the exoplanets Kepler-22 b and Kepler-442 b reveals differences in their size, mass, orbital characteristics, and equilibrium temperature. However, the mass of Kepler-442 b is not provided, making it difficult to determine its composition and habitability. Further research is needed to determine the mass and composition of Kepler-442 b and to compare its habitability with that of Kepler-22 b.
+**Scientific Analysis of Exoplanet 11 Com b**
+
+**1. Basic Characteristics**
+
+The exoplanet 11 Com b orbits the star 11 Com, a G-type main-sequence star. The discovery of this exoplanet was made using 
+the radial velocity method in the year 2007. The orbital period of 11 Com b is 323.21 days, indicating a relatively long orbital period compared to other exoplanets.
+
+**2. Orbital Properties**
+
+The orbital period of 11 Com b is 323.21 days, which suggests a relatively large semi-major axis. However, without information on the eccentricity of the orbit, it is difficult to determine the exact shape of the orbit. The orbital period is a fundamental parameter in understanding the dynamics of the system and the potential for tidal interactions between the exoplanet and its host star.
+
+**3. Physical Composition Implications**
+
+Due to the lack of information on the radius (pl_rade) and mass (pl_masse) of 11 Com b, it is challenging to infer its physical composition. The equilibrium temperature (pl_eqt) is also unknown, which would be essential in determining the potential for atmospheric retention and the presence of a solid surface. However, we can speculate that the exoplanet's mass and radius would provide valuable insights into its bulk composition and potential for planetary differentiation.
+
+**4. Habitability Considerations**
+
+Without information on the exoplanet's radius, mass, and equilibrium temperature, it is difficult to assess its habitability. The presence of a stable atmosphere, liquid water, and a solid surface are essential for life as we know it. However, the long orbital period and potential tidal interactions with the host star could have implications for the exoplanet's climate and potential for habitability.
+
+**5. Scientific Significance**
+
+The discovery of 11 Com b contributes to our understanding of the population of exoplanets in the Milky Way galaxy. The radial velocity method used to detect this exoplanet is a powerful tool for identifying planets with masses similar to those of Jupiter. Further studies of 11 Com b, including radial velocity follow-up observations and transit photometry, could provide valuable insights into its physical properties and potential for habitability.
